@@ -1,4 +1,4 @@
-- a software engineer with a curious passion for soups 🥣
+- a curious passion for soups 🥣
 
 <!---
 siury/siury is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
